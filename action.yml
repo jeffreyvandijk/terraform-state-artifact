@@ -1,4 +1,4 @@
-name: terraform-state-artifact
+name: terraform-state-artifact-v2
 description: 'Downloads and uploads your Terraform statefile as an encrypted Github Artifact'
 author: 'Sturla Bragason & Gioele De Vitti'
 
